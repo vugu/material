@@ -1,0 +1,19 @@
+
+// TODO: look at bootstrap, vuetify, tailwind and a few others and see what naming conventions they use, think this through
+
+// default text color
+$text-color: #222;
+
+// background color of emphasized elements
+$primary-color: blue !default;
+
+// color for text when $primary-color is use as the background
+$primary-text-color: #fff !default;
+
+// color of secondary elements
+$secondary-color: green !default;
+
+// default border radius where things are rounded
+$primary-border-radius: 3px !default;
+
+// TODO: card border radius
